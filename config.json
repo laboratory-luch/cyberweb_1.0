@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
   "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "name": "Alex&Stan",
+  "ascii": "CyberWeb",
   "social": {
     "github": "github",
-    "linkedin": "linkedin"
+    "linkedin": "x.com"
   },
-  "email": "contact@email.com",
+  "email": "XXX@email.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/laboratory-luch/cyberweb_1.0",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://XXX.XXX",
+    "patreon": "https://XXX.XXX"
   },
   "colors": {
     "light": {
