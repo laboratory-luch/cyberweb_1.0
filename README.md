@@ -32,7 +32,7 @@ LiveTerm requires the `yarn` package manager. You can install `yarn` [here](http
 Simply run the following commmand in your terminal:
 
 ```bash
-sh -c "$(curl -fsSL https://raw.github.com/Cveinnt/LiveTerm/main/install/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/laboratory-luch/cyberweb_1.0/main/install/install.sh)"
 ```
 
 This will install LiveTerm to the current directory. You can start building your website with:
