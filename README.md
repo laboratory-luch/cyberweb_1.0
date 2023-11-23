@@ -1,10 +1,10 @@
-# [💻 LiveTerm - build terminal styled websites!](https://liveterm.vercel.app)
+# [💻 build terminal styled websites! (LiveTerm)](https://liveterm.vercel.app)
 
 minimal terminal styled website template, powered by Next.js.
 
 Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `yarn install && yarn dev` and start editing `config.json` to build your website!
 
-LiveTerm can be used to build a variety of websites:
+Examples of other work:
 
 - [personal website](https://cveinnt.com)
 - [browser startpage](https://livetermstart.vercel.app/)
@@ -45,7 +45,7 @@ Start editing `config.json` and try saving and see the updated changes!
 Alternatively, you can clone this repository to a location of your choosing
 
 ```bash
-git clone https://github.com/Cveinnt/LiveTerm.git && cd LiveTerm
+git clone https://github.com/laboratory-luch/cyberweb_1.0.git && cd LiveTerm
 ```
 
 Then install dependencies and start developing there:
