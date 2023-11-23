@@ -1,8 +1,8 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "Alex&Stan",
-  "ascii": "CyberWeb",
+  "title": "laboratory-luch",
+  "name": "laboratory-luch",
+  "ascii": "laboratory-luch",
   "social": {
     "github": "github",
     "twitter": "stanislavMzv"
@@ -13,8 +13,8 @@
   "repo": "https://github.com/laboratory-luch",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://XXX.XXX",
-    "patreon": "https://XXX.XXX"
+    "BTC": "bc1qm0tkr6zks3yw0jqvgj656z27jauhg2eu84p7xu",
+    "ETH": "0x0AF80628A2988FDdB0Eb8C78858CA2649d3Fcb0E"
   },
   "colors": {
     "light": {
