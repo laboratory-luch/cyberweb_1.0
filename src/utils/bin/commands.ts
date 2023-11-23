@@ -15,6 +15,7 @@ export const help = async (args: string[]): Promise<string> => {
     }
   }
   return `Welcome! Here are all the available commands:
+  Добро пожаловать! Вот все доступные команды:
 \n${c}\n
 [tab]: trigger completion - или нет ? or not ?.
 [ctrl+l]/clear: clear terminal.\n
@@ -31,11 +32,10 @@ export const repo = async (args: string[]): Promise<string> => {
 // About
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
-Welcome to my website!
+Welcome to our website!
 More about me:
-'sumfetch' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+VPN - https://t.me/labaratory_luch_vpn_bot
+IP/WebCheck - https://t.me/iperabot`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
@@ -153,7 +153,7 @@ export const banner = (args?: string[]): string => {
                                                                                      ░░██████                                                  
                                                                                       ░░░░░░                                                   
 Type 'help' to see the list of available commands.
-Type 'sumfetch' to display summary.
+Type 'sumfetch' to display summary/наша визитка.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
 `;
 };
